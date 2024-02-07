@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-image: url('moonbg.jpg'); /* Set background image */
+    background-size: cover; /* Ensure the entire background image covers the page */
+    color: white; /* Set text color to white */
+}
+
+.message {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Beautiful font */
+    font-size: 24px; /* Font size */
+    font-weight: bold; /* Make the message text bold */
+    line-height: 1.5; /* Line height for better readability */
+    padding: 20px; /* Add padding to ensure text is readable */
+    text-align: left; /* Align the text to the left for better readability */
+}
